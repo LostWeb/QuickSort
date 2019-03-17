@@ -1,0 +1,12 @@
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\bin\Debug\QuickSorter.dll
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\bin\Debug\QuickSorter.pdb
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\obj\Debug\QuickSorter.csprojResolveAssemblyReference.cache
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\obj\Debug\QuickSorter.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\obj\Debug\QuickSorter.dll
+C:\Users\alexp\Desktop\Sort\QuickSort\QuickSorter\obj\Debug\QuickSorter.pdb
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\bin\Debug\QuickSorter.dll
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\bin\Debug\QuickSorter.pdb
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\obj\Debug\QuickSorter.csprojResolveAssemblyReference.cache
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\obj\Debug\QuickSorter.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\obj\Debug\QuickSorter.dll
+C:\Users\alexp\Desktop\QuickSortLab\QuickSorter\obj\Debug\QuickSorter.pdb
